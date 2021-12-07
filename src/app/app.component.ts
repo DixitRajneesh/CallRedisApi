@@ -13,6 +13,8 @@ export class AppComponent implements OnInit {
 
   }
   //this is my testing
+  //This is Portall
+  // Application
   title = 'CallRedisApi';
 
 ngOnInit()
