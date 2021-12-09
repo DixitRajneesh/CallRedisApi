@@ -14,7 +14,7 @@ export class AppComponent implements OnInit {
   }
   //this is my testing
   //This is Portall
-  //Portall Info System
+  //Need to finialize Menu
   title = 'CallRedisApi';
 
 ngOnInit()
